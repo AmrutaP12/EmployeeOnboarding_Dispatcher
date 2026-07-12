@@ -1,0 +1,16 @@
+{
+  "name": "part1-employee-dispatcher",
+  "version": "1.0.0",
+  "description": "AWS Lambda Node.js dispatcher for employee onboarding",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
